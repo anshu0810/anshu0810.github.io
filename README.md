@@ -24,7 +24,8 @@ This document will guide you to accomplish that goal. If you follow the steps of
 1. [Github Desktop application](https://desktop.github.com/).
 
 ## Let's Get Started.
-1. Login on [github Pages](https://github.com/). Andrew Etter mentions that distributed version control systems (DVCS) like Git have better performance than centralized systems and allows the writer to work on documentation offline.  This is perfect as you will not need to be online to edit or make changes to your resume.
+1. Login on [github Pages](https://github.com/). Andrew Etter mentions that distributed version control systems (DVCS) like Git have better performance than centralized systems and allows the writer to work on documentation offline. Distributed version control Systems also allow multiple people to work and collaborate together.
+This is perfect as you will not need to be online to edit or make changes to your resume.
 
 2. Create a new repository. 
 
@@ -34,9 +35,11 @@ This document will guide you to accomplish that goal. If you follow the steps of
 
 4. Make the repository public so potential employers can see it and initialize the repository with a Readme file.
 
-5. Click on `add files` and upload your resume in markdown format and name it as **index.md**. Make sure that you are working in your **main branch**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that "Markdown has the cleanest syntax and it is easy to write and read." Here is a [Cheatsheet](https://www.markdownguide.org/cheat-sheet/) for Markdown syntax.
+5. Click on `add files` and upload your resume in markdown format and name it as **index.md**. Make sure that you are working in your **main branch**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that
 
-**Note: If your resume file is not named as index.md then you won't be able see your website.**
+>"Markdown has the cleanest syntax and it is easy to write and read." Here is a [Cheatsheet](https://www.markdownguide.org/cheat-sheet/) for Markdown syntax.
+
+**Note: If your resume file is not named as index.md then the github pages won't host your resume because it looks for this file.**
 
 6. Next step is to Clone your repository so you can work offline or make changes to it offline as well.
    * Click on `Code` button and then select `github desktop`.
@@ -78,13 +81,22 @@ I would like to thank my group members **Evan Marshall, Seunghwan Youn and Tehil
 I would also like to thank Andrew Etter for his very helpful and informative book *Modern Technical Writing*.
 
 ## FAQS
-1. Why is Markdown better than Microsoft Word ? 
-    * Markdown is easy to format and remains consistent across different platforms compared to Word. It is readable and easy to learn. Word files often needs formatting when you transfer them across different softwares and sometimes may even loose some data.
+1. **Why is Markdown better than Microsoft Word ?**
+    * Markdown is easy to format and remains consistent across different platforms compared to Word. It is readable and easy to learn. Word files often needs formatting when you transfer them across different softwares and sometimes may even loose some data. Converting a markdown file into other formats is very convenient and it doesn't disrupt your formatting. 
  
-2. Why I cannot see changes to my website after working on it offline ?
-   * After you make changes to your resume follow the following steps:
+2. **Why I cannot see changes to my website after working on it offline?**
+   * The reason that you cannot see changes to your website after working on it offline is that you may not have updated your file using GitHub Desktop.
+     Here are some steps that will help you:
     1. Open github Desktop.
     2. Click on `Commit to main`.
     3. Click `Push to origin`. 
     4. Refresh your webpage and then you can see your changes.
-3. 
+
+3. **Can I add images to my resume?**
+   * Yes, you can add images to your resume. Here's how
+    1. Open your repository.
+    2. Click on `Add file`.
+    3. Upload your file.
+    4. Edit your resume and using markdown syntax put the relative path of your image.
+       
+       > `![Alternate Text]( image path)`
