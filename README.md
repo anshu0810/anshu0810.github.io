@@ -72,11 +72,11 @@ I would also like to thank Andrew Etter for his very helpful and informative boo
 
 ## FAQS
 1. Why is Markdown better than Microsoft Word ? 
-    * Mark down is easy to format and remains consistent across different platform compared to Word. It is readable and easy to learn. Word files often needs formatting when you transfer them across different softwares and sometimes may even loose some data.
+    * Markdown is easy to format and remains consistent across different platforms compared to Word. It is readable and easy to learn. Word files often needs formatting when you transfer them across different softwares and sometimes may even loose some data.
  
 2. Why I cannot see changes to my website after working on it offline ?
    * After you make changes to your resume follow the following steps:
     1. Open github Desktop.
-     2. Commit to main.
-     3. Push to origin. 
-     4. Refresh your webpage and then you can see your changes.
+    2. Commit to main.
+    3. Push to origin. 
+    4. Refresh your webpage and then you can see your changes.
