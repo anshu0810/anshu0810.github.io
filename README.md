@@ -48,6 +48,7 @@ Finally, you want your Website to look more appealing and presentable.
    * Select a theme which suits your resume.
    * Github uses [Jekyll](https://github.com/jekyll/jekyll) a static site generator to make your themes. Etter makes great point about static site generators in his book as        he argues that
    
+   
    >They are easy to move because they don't have any server-side application dependencies, and nothing to install. They cannot be hacked like Wordpress because they are not dynamic and you can test them in your local computer because there are no softwares to install.
 
 8. After you Select your theme, it creates a .yaml file in your repository where your theme is stored.
