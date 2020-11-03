@@ -38,6 +38,7 @@ I would also like to thank Andrew Etter for his very helpful and informative boo
 
 ## FAQS
 1. Why is Markdown better than Microsoft Word ? 
- * Answer
+  * Mark down is easy to format and remains consistent across different platform compared to Word. It is readable and easy to learn. Word files often needs formatting when you transfer them across different softwares and sometimes may even loose some data.
+ 
 2. Why I cannot see changes to my website after working on it offline ?
- * Answer
+  * After you make changes to a repo
