@@ -14,7 +14,7 @@ Making a resume in a .pdf or .docx is outdated and tedious. You need tools to qu
 
 >"that hosting your content on a website gives you the power to fix inaccuracies almost instantly."
 
-This document will guide you to accomplish that goal.
+This document will guide you to accomplish that goal. If you follow the steps of this readme then you will end up with a website that would look like the this gif.
 
 ![MY resume](https://media.giphy.com/media/znMM8g0B7EE5HZHzlV/giphy.gif)
 
@@ -24,11 +24,11 @@ This document will guide you to accomplish that goal.
 1. [Github Desktop application](https://desktop.github.com/).
 
 ## Let's Get Started.
-1. Login on [github Pages](https://github.com/). Andrew Etter mentions that distributed version control systems like Git have better performance than centralized systems and allows the writer to work on documentation offline. This is perfect as you will not need to be online to edit or make changes to your resume.
+1. Login on [github Pages](https://github.com/). Andrew Etter mentions that distributed version control systems (DVCS) like Git have better performance than centralized systems and allows the writer to work on documentation offline.  This is perfect as you will not need to be online to edit or make changes to your resume.
 
 2. Create a new repository. 
 
-3. Name your repository **yourusername.github.io**.It is important for you to name the repository exactly in this format because github pages allow one domain per account and github pages needs to know which repository to host.
+3. Name your repository **yourusername.github.io**.It is important for you to name the repository exactly in this format because github pages allow one domain per account and github pages needs to know which repository to host. As you can see below:
 
 ![find the repository](https://media.giphy.com/media/pWKSwNQNyZzCZA2S2i/giphy.gif) 
 
