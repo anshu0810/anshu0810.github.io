@@ -28,7 +28,9 @@ This document will guide you to accomplish that goal.
 
 2. Create a new repository. 
 
-3. Name your repository **yourusername.github.io**.It is important for you to name the repository exactly in this format because github pages allow one domain per account and github pages needs to know which repository to host. ![find the repository](https://media.giphy.com/media/pWKSwNQNyZzCZA2S2i/giphy.gif) 
+3. Name your repository **yourusername.github.io**.It is important for you to name the repository exactly in this format because github pages allow one domain per account and github pages needs to know which repository to host.
+
+![find the repository](https://media.giphy.com/media/pWKSwNQNyZzCZA2S2i/giphy.gif) 
 
 4. Make the repository public so potential employers can see it and initialize the repository with a Readme file.
 
