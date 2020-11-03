@@ -27,3 +27,12 @@ Making a resume in a .pdf or .docx is outdated and tedious. You need tools to qu
  * It will open your github destop application and then you can choose the path for your repository and clone it.
  * Well Done! Now you can make changes to your resume here and later update them online.
 7. Finally, you want your Website to look more appealing and presentable.
+
+## Acknowlegments
+I would like to thank my group members **Evan Marshall, Seunghwan Youn and Tehillah Kangamba** for their contributions in helping me making this Website and this document.
+
+## FAQS
+1. Why is Markdown better than Microsoft Word ? 
+ * Answer
+2. Why I cannot see changes to my website after working on it offline ?
+ * Answer
