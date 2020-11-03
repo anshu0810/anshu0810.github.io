@@ -44,17 +44,20 @@ Finally, you want your Website to look more appealing and presentable.
 7. **Go to yourusername.github.io** and Click on Settings. 
    * Scroll down till you find Github Pages and then Click on Choose a theme.
    * Select a theme which suits your resume.
-   * Github uses [Jekyll](https://github.com/jekyll/jekyll) a static site generator to make your themes. Etter makes great point about static site generators in his book as he argues that
+   * Github uses [Jekyll](https://github.com/jekyll/jekyll) a static site generator to make your themes. Etter makes great point about static site generators in his book as        he argues that
+   
    >They are easy to move because they don't have any server-side application dependencies, and nothing to install. They cannot be hacked like Wordpress because they are not dynamic and you can test them in your local computer because there are no softwares to install.
 
 8. After you Select your theme, it creates a .yaml file in your repository where your theme is stored.
-   * You can even make your own custom Jekyll theme and add to your repository. Here is a Step by Step tutorial to build a [Jekyll](https://jekyllrb.com/docs/step-by-step/01-setup/) site by scratch.
+   * You can even make your own custom Jekyll theme and add to your repository. 
+   * Here is a [Step by Step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)to build a Jekyll site by scratch.
 
 9. After few minutes your website will be created and you're **DONE.**
 
-10. You can see your website on yourusername.github.io/.
+10. You can see your website on **yourusername.github.io/.**
 
 ## More resources
+
 1. A quick tutorial for [Markdown](https://www.markdowntutorial.com/)
 
 2. A [list of Markdown editors](https://www.oberlo.ca/blog/markdown-editors) by OS. 
@@ -73,7 +76,7 @@ I would also like to thank Andrew Etter for his very helpful and informative boo
  
 2. Why I cannot see changes to my website after working on it offline ?
    * After you make changes to your resume follow the following steps:
-     1. Open github Desktop.
+    1. Open github Desktop.
      2. Commit to main.
      3. Push to origin. 
      4. Refresh your webpage and then you can see your changes.
