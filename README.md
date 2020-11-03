@@ -26,11 +26,15 @@ Making a resume in a .pdf or .docx is outdated and tedious. You need tools to qu
  * Click on Code and then select github desktop.
  * It will open your github destop application and then you can choose the path for your repository and clone it.
  * Well Done! Now you can make changes to your resume here and later update them online.
-7. Finally, you want your Website to look more appealing and presentable.
+7. Finally, you want your Website to look more appealing and presentable. **Go to yourusername.github.io** and Click on Settings. Scrool down till you find Github Pages and then Choose a theme.
+* Github uses [Jekyll](https://github.com/jekyll/jekyll) a static site generator. Etter makes great point about static site generators in his book that they are easy to move because they don't have any server-side application dependencies, and nothing to install. they cannot be hacked like Wordpress because they are not dynamic and you can test them in your local computer because there are no softwares to install.
+8. After you Select your theme, it creates a .yaml file in your repository where your theme is stored.
+9. After few minutes your website will be created and you're **DONE.**
+10. You can see your website on 
 
 ## Acknowlegments
 I would like to thank my group members **Evan Marshall, Seunghwan Youn and Tehillah Kangamba** for their contributions in helping me making this Website and this document.
-I would also like to thank Andrew Etter for his very helpful and informative book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+I would also like to thank Andrew Etter for his very helpful and informative book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 ## FAQS
 1. Why is Markdown better than Microsoft Word ? 
