@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+# Prabhanshu Shrivastava
+__Contact: 431-997-3945__
 
-You can use the [editor on GitHub](https://github.com/anshu0810/anshu0810.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+**Email: Prabhanshu08sh@outlook.com** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EDUCATION
 
-### Markdown
+April 2014 -June 2016
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+High School 
 
-```markdown
-Syntax highlighted code block
+**St. Joseph's Convent School, Saugor, MP, India**
 
-# Header 1
-## Header 2
-### Header 3
+September 2017 - Present
 
-- Bulleted
-- List
+**BACHELOR OF SCIENCE**
 
-1. Numbered
-2. List
+*Major* in Computer Science and *Minor* in Theatre
 
-**Bold** and _Italic_ and `Code` text
+**University Of Manitoba, Winnipeg, MB, Canada**
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Technical Skills
+### Programming:
+* C/C++  
+* CSS
+* HTML
+* Java
+* Javascript
+* MySQL
+* python
+* XML 
 
-### Jekyll Themes
+### Softwares:
+* MS office, Google adwords, Hootsuite, Adobe Photoshop.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anshu0810/anshu0810.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Other Skills
+*	Great communication skills.
+*	Multi-tasking.
+*   Time management.
+*	Team Player as well as good in independent environments.
+*	Good leadership skills as well as punctuality.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##  Work Experience
+
+>Septemeber 2018 – March 2020
+
+* Server/ Bartender, *ERA BISTRO* AT Canadian Museum for Human Rights
+
+    Setting up table, serving  guests and bussing tables.
+    
+    Resolving guest issues and making drinks.
+
+>DECEMBER 2017 – PRESENT
+
+* SERVER/BARTENDER, *Captains Boil Winnipeg*
+    
+    Explaining menus, serving guests, making drinks.
+    
+    Understanding guest needs and delivering them.
+    
+    Training new staff and managing complaints.
+    
+
+>JUNE 2019– March 2020
+
+*   SERVER/SUERVISOR, *Purple Noodle Bar*
+    
+    Cashing everyone out and helping other servers with their tables.        
+    
+    Creating a healthy and fun environment for others to work in.
+
+> August 2019 - March 2020 
+
+* Assistant digital marketing Manager, *Peach Lasers*
+
+    Creating ad campaigns for parent company and other ventures of the parent company.
+    
+    Working closely with local business owner to help promoting their      business.
+    
+    Working with softwares like Adobe Photoshop, google Adwords, Hootsuite to make new campaigns and sucessfully launch them. 
+
+##  Volunteering Experience
+
+* Make a Difference, Bhopal
+    
+    Worked with multiple local business owner to provide underprivileged kids with financial support for their education.  
+    
+* AISEC Manitoba, Winnipeg
+
+    Worked with local companies to help bring people from other countries in a Work exchange program.
+    
+    
+##  Refrences
+
+* Available upon request.
+
