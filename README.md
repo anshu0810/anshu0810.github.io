@@ -30,6 +30,7 @@ Making a resume in a .pdf or .docx is outdated and tedious. You need tools to qu
 
 ## Acknowlegments
 I would like to thank my group members **Evan Marshall, Seunghwan Youn and Tehillah Kangamba** for their contributions in helping me making this Website and this document.
+I would also like to thank Andrew Etter for his very helpful and informative book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## FAQS
 1. Why is Markdown better than Microsoft Word ? 
