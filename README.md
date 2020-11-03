@@ -21,7 +21,7 @@ Making a resume in a .pdf or .docx is outdated and tedious. You need tools to qu
 2. Create a new repository. 
 3. Name your repository **yourusername.github.io**.It is important for you to name the repository exactly in that format because github pages allow one domain per account and github pages need to know which repository to host. ![find the repository](https://media.giphy.com/media/pWKSwNQNyZzCZA2S2i/giphy.gif) 
 4. Make the repository public so potential employers can see it and initialize the repository with a Readme file.
-5. Click on add files and upload your resume in markdown format and name it as **index.md**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that "Markdown has the cleanest syntax and it is easy to write and read." Here is a [link](https://www.markdowntutorial.com/) to a Markdown tutorial which is easy to learn in 30 minutes.
+5. Click on add files and upload your resume in markdown format and name it as **index.md**. Make sure that you are working in your **main branch**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that "Markdown has the cleanest syntax and it is easy to write and read." Here is a [link](https://www.markdowntutorial.com/) to a Markdown tutorial which is easy to learn in 30 minutes.
 6. Next step is to Clone your repository so you can work offline or make changes to it offline as well.
  * Click on Code and then select github desktop.
  * It will open your github destop application and then you can choose the path for your repository and clone it.
@@ -29,6 +29,7 @@ Making a resume in a .pdf or .docx is outdated and tedious. You need tools to qu
 7. Finally, you want your Website to look more appealing and presentable. **Go to yourusername.github.io** and Click on Settings. Scrool down till you find Github Pages and then Choose a theme.
 * Github uses [Jekyll](https://github.com/jekyll/jekyll) a static site generator. Etter makes great point about static site generators in his book that they are easy to move because they don't have any server-side application dependencies, and nothing to install. they cannot be hacked like Wordpress because they are not dynamic and you can test them in your local computer because there are no softwares to install.
 8. After you Select your theme, it creates a .yaml file in your repository where your theme is stored.
+ * You can even make your own custom Jekyll theme and add to your repository. Here is a link for a Jekyll [tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
 9. After few minutes your website will be created and you're **DONE.**
 10. You can see your website on yourusername.github.io/.
 
