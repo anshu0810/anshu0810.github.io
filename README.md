@@ -24,7 +24,7 @@ This document will guide you to accomplish that goal. If you follow the steps of
 1. [Github Desktop application](https://desktop.github.com/).
 
 ## Let's Get Started.
-1. Login on [github Pages](https://github.com/). Andrew Etter mentions that distributed version control systems (DVCS) like Git have better performance than centralized systems and allows the writer to work on documentation offline. Distributed version control Systems also allow multiple people to work and collaborate together.
+1. Login on [Github Pages](https://github.com/). Andrew Etter mentions that distributed version control systems (DVCS) like Git have better performance than centralized systems and allows the writer to work on documentation offline. Distributed version control Systems also allow multiple people to work and collaborate together.
 This is perfect as you will not need to be online to edit or make changes to your resume.
 
 2. Create a new repository. 
@@ -37,7 +37,7 @@ This is perfect as you will not need to be online to edit or make changes to you
 
 5. Click on `add files` and upload your resume in markdown format and name it as **index.md**. Make sure that you are working in your **main branch**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that
 
->"Markdown has the cleanest syntax and it is easy to write and read." Here is a [Cheatsheet](https://www.markdownguide.org/cheat-sheet/) for Markdown syntax.
+>"Markdown has the cleanest syntax and it is easy to write and read." Here is a [cheatsheet](https://www.markdownguide.org/cheat-sheet/) for Markdown syntax.
 
 **Note: If your resume file is not named as index.md then the github pages won't host your resume because it looks for this file.**
 
@@ -86,6 +86,7 @@ I would also like to thank Andrew Etter for his very helpful and informative boo
 2. **Why I cannot see changes to my website after working on it offline?**
     * The reason that you cannot see changes to your website after working on it offline is that you may not have updated your file using GitHub Desktop.
       Here are some steps that will help you:
+      
      1. Open github Desktop.
      2. Click on `Commit to main`.
      3. Click `Push to origin`. 
@@ -93,7 +94,8 @@ I would also like to thank Andrew Etter for his very helpful and informative boo
 
 3. **Can I add images to my resume?**
     * Yes, you can add images to your resume. Here's how
-     1. Open your repository.
+    
+    1. Open your repository.
      2. Click on `Add file`.
      3. Upload your file.
      4. Edit your resume and using markdown syntax put the relative path of your image.
