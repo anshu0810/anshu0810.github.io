@@ -48,17 +48,16 @@ This is perfect as you will not need to be online to edit or make changes to you
 
 Finally, you want your Website to look more appealing and presentable.
 
-7. **Go to yourusername.github.io** and Click on `Settings`. 
+7. Go to **yourusername.github.io** and Click on `Settings`. 
    * Scroll down till you find Github Pages and then Click on `Choose a theme`.
    * Select a theme which suits your resume.
    * Github uses [Jekyll](https://github.com/jekyll/jekyll) a static site generator to make your themes. Etter makes great point about static site generators in his book as        he argues that
-   
-   
+
    >They are easy to move because they don't have any server-side application dependencies, and nothing to install. They cannot be hacked like Wordpress because they are not dynamic and you can test them in your local computer because there are no softwares to install.
 
 8. After you Select your theme, it creates a .yaml file in your repository where your theme is stored as shown below.
    * You can even make your own custom Jekyll theme and add to your repository. 
-   * Here is a [Step by Step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)to build a Jekyll site by scratch.
+   * Here is a [Step by Step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) to build a Jekyll site by scratch.
 
 ![yml file](yaml.PNG)
 
@@ -85,18 +84,18 @@ I would also like to thank Andrew Etter for his very helpful and informative boo
     * Markdown is easy to format and remains consistent across different platforms compared to Word. It is readable and easy to learn. Word files often needs formatting when you transfer them across different softwares and sometimes may even loose some data. Converting a markdown file into other formats is very convenient and it doesn't disrupt your formatting. 
  
 2. **Why I cannot see changes to my website after working on it offline?**
-   * The reason that you cannot see changes to your website after working on it offline is that you may not have updated your file using GitHub Desktop.
-     Here are some steps that will help you:
-    1. Open github Desktop.
-    2. Click on `Commit to main`.
-    3. Click `Push to origin`. 
-    4. Refresh your webpage and then you can see your changes.
+    * The reason that you cannot see changes to your website after working on it offline is that you may not have updated your file using GitHub Desktop.
+      Here are some steps that will help you:
+     1. Open github Desktop.
+     2. Click on `Commit to main`.
+     3. Click `Push to origin`. 
+     4. Refresh your webpage and then you can see your changes.
 
 3. **Can I add images to my resume?**
-   * Yes, you can add images to your resume. Here's how
-    1. Open your repository.
-    2. Click on `Add file`.
-    3. Upload your file.
-    4. Edit your resume and using markdown syntax put the relative path of your image.
+    * Yes, you can add images to your resume. Here's how
+     1. Open your repository.
+     2. Click on `Add file`.
+     3. Upload your file.
+     4. Edit your resume and using markdown syntax put the relative path of your image.
        
        > `![Alternate Text]( image path)`
