@@ -18,7 +18,8 @@ Making a resume in a .pdf or .docx is outdated and tedious. You need tools to qu
 ## Let's Get Started.
 1. Login on [github Pages](https://github.com/). Andrew Etter mentions that using Distributed version control system like Git have better performance and allows the writer to work on documentation offline. This is perfect as you will not need to be online to edit or make changes to your resume.
 
-1. Create a new repository. 
-1. Name your repository **yourusername.github.io**.It is important for you to name the repository exactly in that format because github pages allow one domain per account and github pages need to know which repository to host. ![find the repository](https://media.giphy.com/media/pWKSwNQNyZzCZA2S2i/giphy.gif) 
-1. Make the repository public so potential employers can see it and initialize the repository with a Readme file.
-1. kld
+2. Create a new repository. 
+3. Name your repository **yourusername.github.io**.It is important for you to name the repository exactly in that format because github pages allow one domain per account and github pages need to know which repository to host. ![find the repository](https://media.giphy.com/media/pWKSwNQNyZzCZA2S2i/giphy.gif) 
+4. Make the repository public so potential employers can see it and initialize the repository with a Readme file.
+5. Click on add files and upload your resume in markdown format and name it as **index.md**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that "Markdown has the cleanest syntax and it is easy to write and read." Here is a [link](https://www.markdowntutorial.com/) to a Markdown tutorial which is easy to learn in 30 minutes.
+6. 
