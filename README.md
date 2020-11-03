@@ -8,6 +8,8 @@ A quick guide on how to use and format a resume online by using:
 ## Why you should consider hosting your resume Online ?
 > Making a resume in a .pdf or .docx is outdated and tedious. You need tools to quickly update your resume and instead of uploading multiple files you need a short link where your potential employers can view your resume. 
 
+![YAY!](https://media.giphy.com/media/znMM8g0B7EE5HZHzlV/giphy.gif)
+
 ## What you need ?
 1. An account on [github](https://github.com/)
 1. A resume formatted in [markdown](https://daringfireball.net/projects/markdown/). 
