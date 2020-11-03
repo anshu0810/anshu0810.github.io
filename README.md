@@ -2,11 +2,9 @@
 
 This document provides a quick guide on how to use and format a resume online by using:
 1. a lightweight markup language(Markdown),
-1. a static site generator(Jekyll) and,
-1. sharing/hosting it on a distributed version control system(GitHub Pages).
+2. a static site generator(Jekyll) and,
+3. sharing/hosting it on a distributed version control system(GitHub Pages).
 
-## Audience
-A second or third year Computer Science student who has little or no experience on github and wants to learn how to host their resume online. 
 
 ## Why you should consider hosting your resume online ?
 
