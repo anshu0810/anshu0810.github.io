@@ -28,7 +28,7 @@ This document will guide you to accomplish that goal. If you follow the steps of
 
 2. Create a new repository. 
 
-3. Name your repository **yourusername.github.io**.It is important for you to name the repository exactly in this format because github pages allow one domain per account and github pages needs to know which repository to host. As you can see below:
+3. Name your repository **yourusername.github.io**. It is important for you to name the repository exactly in this format because github pages allow one domain per account and github pages needs to know which repository to host. As you can see below:
 
 ![find the repository](https://media.giphy.com/media/pWKSwNQNyZzCZA2S2i/giphy.gif) 
 
@@ -85,3 +85,4 @@ I would also like to thank Andrew Etter for his very helpful and informative boo
     2. Commit to main.
     3. Push to origin. 
     4. Refresh your webpage and then you can see your changes.
+    5. 
