@@ -51,9 +51,11 @@ Finally, you want your Website to look more appealing and presentable.
    
    >They are easy to move because they don't have any server-side application dependencies, and nothing to install. They cannot be hacked like Wordpress because they are not dynamic and you can test them in your local computer because there are no softwares to install.
 
-8. After you Select your theme, it creates a .yaml file in your repository where your theme is stored.
+8. After you Select your theme, it creates a .yaml file in your repository where your theme is stored as shown below.
    * You can even make your own custom Jekyll theme and add to your repository. 
    * Here is a [Step by Step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)to build a Jekyll site by scratch.
+
+![yml file](docs/yaml.png)
 
 9. After few minutes your website will be created and you're **DONE.**
 
