@@ -41,4 +41,6 @@ I would also like to thank Andrew Etter for his very helpful and informative boo
   * Mark down is easy to format and remains consistent across different platform compared to Word. It is readable and easy to learn. Word files often needs formatting when you transfer them across different softwares and sometimes may even loose some data.
  
 2. Why I cannot see changes to my website after working on it offline ?
-  * After you make changes to a repo
+  * After you make changes to your resume follow the following steps:
+  1. Open github Desktop.
+  2. 
