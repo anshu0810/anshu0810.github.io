@@ -20,7 +20,7 @@ This document will guide you to accomplish that goal. If you follow the steps of
 
 ## What you need before we get started?
 1. An account on [github](https://github.com/).
-1. A resume formatted in [markdown](https://daringfireball.net/projects/markdown/). 
+1. A resume formatted in [markdown](https://daringfireball.net/projects/markdown/) named **index.md**. 
 1. [Github Desktop application](https://desktop.github.com/).
 
 ## Let's Get Started.
@@ -34,17 +34,17 @@ This document will guide you to accomplish that goal. If you follow the steps of
 
 4. Make the repository public so potential employers can see it and initialize the repository with a Readme file.
 
-5. Click on add files and upload your resume in markdown format and name it as **index.md**. Make sure that you are working in your **main branch**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that "Markdown has the cleanest syntax and it is easy to write and read." Here is a [Cheatsheet](https://www.markdownguide.org/cheat-sheet/) for Markdown syntax.
+5. Click on `add files` and upload your resume in markdown format and name it as **index.md**. Make sure that you are working in your **main branch**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that "Markdown has the cleanest syntax and it is easy to write and read." Here is a [Cheatsheet](https://www.markdownguide.org/cheat-sheet/) for Markdown syntax.
 
 6. Next step is to Clone your repository so you can work offline or make changes to it offline as well.
-   * Click on Code button and then select github desktop.
+   * Click on `Code` button and then select `github desktop`.
    * It will open your github desktop application and then you can choose the path for your repository and clone it.
    * Well Done! Now you can make changes to your resume here and later update them online.
 
 Finally, you want your Website to look more appealing and presentable.
 
-7. **Go to yourusername.github.io** and Click on Settings. 
-   * Scroll down till you find Github Pages and then Click on Choose a theme.
+7. **Go to yourusername.github.io** and Click on `Settings`. 
+   * Scroll down till you find Github Pages and then Click on `Choose a theme`.
    * Select a theme which suits your resume.
    * Github uses [Jekyll](https://github.com/jekyll/jekyll) a static site generator to make your themes. Etter makes great point about static site generators in his book as        he argues that
    
