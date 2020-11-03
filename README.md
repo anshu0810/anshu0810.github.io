@@ -10,11 +10,15 @@ A second or third year Computer Science student who has little or no experience 
 
 ## Why you should consider hosting your resume online ?
 
-Making a resume in a .pdf or .docx is outdated and tedious. You need tools to quickly update your resume and instead of uploading multiple files you need a short link where your potential employers can view your resume. As Andrew Etter mentions in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) that hosting your content on a website gives you the power to fix inaccuracies almost instantly.This document will guide you to accomplish that goal.
+Making a resume in a .pdf or .docx is outdated and tedious. You need tools to quickly update your resume and instead of uploading multiple files. What you need is a short link to a website where your potential employers can view your resume. As Andrew Etter mentions in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) 
+
+>"that hosting your content on a website gives you the power to fix inaccuracies almost instantly."
+
+This document will guide you to accomplish that goal.
 
 ![MY resume](https://media.giphy.com/media/znMM8g0B7EE5HZHzlV/giphy.gif)
 
-## What you need ?
+## What you need before we get started?
 1. An account on [github](https://github.com/).
 1. A resume formatted in [markdown](https://daringfireball.net/projects/markdown/). 
 1. [Github Desktop application](https://desktop.github.com/).
