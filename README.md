@@ -55,7 +55,7 @@ Finally, you want your Website to look more appealing and presentable.
    * You can even make your own custom Jekyll theme and add to your repository. 
    * Here is a [Step by Step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)to build a Jekyll site by scratch.
 
-![yml file](Yaml.png)
+![yml file](yaml.PNG)
 
 9. After few minutes your website will be created and you're **DONE.**
 
