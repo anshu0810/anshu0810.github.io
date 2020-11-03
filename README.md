@@ -36,6 +36,8 @@ This document will guide you to accomplish that goal. If you follow the steps of
 
 5. Click on `add files` and upload your resume in markdown format and name it as **index.md**. Make sure that you are working in your **main branch**. Etter also mentions the value of markdown in his book *Modern Technical Writing* and says that "Markdown has the cleanest syntax and it is easy to write and read." Here is a [Cheatsheet](https://www.markdownguide.org/cheat-sheet/) for Markdown syntax.
 
+**Note: If your resume file is not named as index.md then you won't be able see your website.**
+
 6. Next step is to Clone your repository so you can work offline or make changes to it offline as well.
    * Click on `Code` button and then select `github desktop`.
    * It will open your github desktop application and then you can choose the path for your repository and clone it.
