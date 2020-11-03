@@ -7,7 +7,7 @@ A quick guide on how to use and format a resume online by using:
 
 ## Why you should consider hosting your resume Online ?
 
-Making a resume in a .pdf or .docx is outdated and tedious. You need tools to quickly update your resume and instead of uploading multiple files you need a short link where your potential employers can view your resume.As Andrew Etter mentions in his book *[Modern Technical Writing]*(https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) that hosting your content on a website gives you the power to fix inaccuracies almost instantly.This document will guide you to accomplish that goal.
+Making a resume in a .pdf or .docx is outdated and tedious. You need tools to quickly update your resume and instead of uploading multiple files you need a short link where your potential employers can view your resume.As Andrew Etter mentions in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) that hosting your content on a website gives you the power to fix inaccuracies almost instantly.This document will guide you to accomplish that goal.
 
 ![MY resume](https://media.giphy.com/media/znMM8g0B7EE5HZHzlV/giphy.gif)
 
