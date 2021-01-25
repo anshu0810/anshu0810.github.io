@@ -1,7 +1,7 @@
 # Prabhanshu Shrivastava
 __Contact: 431-997-3945__
 
-**Email: Prabhanshu08sh@outlook.com** 
+**Email: Prabhanshuw12@outlook.com** 
 
 ## EDUCATION
 
