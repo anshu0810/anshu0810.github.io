@@ -44,33 +44,6 @@ September 2017 - Present
 
 ##  Work Experience
 
->Septemeber 2018 – March 2020
-
-* Server/ Bartender, *ERA BISTRO* AT Canadian Museum for Human Rights
-
-    Setting up table, serving  guests and bussing tables.
-    
-    Resolving guest issues and making drinks.
-
->DECEMBER 2017 – PRESENT
-
-* SERVER/BARTENDER, *Captains Boil Winnipeg*
-    
-    Explaining menus, serving guests, making drinks.
-    
-    Understanding guest needs and delivering them.
-    
-    Training new staff and managing complaints.
-    
-
->JUNE 2019– March 2020
-
-*   SERVER/SUERVISOR, *Purple Noodle Bar*
-    
-    Cashing everyone out and helping other servers with their tables.        
-    
-    Creating a healthy and fun environment for others to work in.
-
 > August 2019 - March 2020 
 
 * Assistant digital marketing Manager, *Peach Lasers*
@@ -80,6 +53,33 @@ September 2017 - Present
     Working closely with local business owner to help promoting their      business.
     
     Working with softwares like Adobe Photoshop, google Adwords, Hootsuite to make new campaigns and sucessfully launch them. 
+    
+ >DECEMBER 2017 – PRESENT
+
+* SERVER/BARTENDER, *Captains Boil Winnipeg*
+    
+    Explaining menus, serving guests, making drinks.
+    
+    Understanding guest needs and delivering them.
+    
+    Training new staff and managing complaints.
+    
+> Septemeber 2018 – March 2020
+
+* Server/ Bartender, *ERA BISTRO* AT Canadian Museum for Human Rights
+
+    Setting up table, serving  guests and bussing tables.
+    
+    Resolving guest issues and making drinks.
+    
+>JUNE 2019– March 2020
+
+*   SERVER/SUERVISOR, *Purple Noodle Bar*
+    
+    Cashing everyone out and helping other servers with their tables.        
+    
+    Creating a healthy and fun environment for others to work in.
+
 
 ##  Volunteering Experience
 
